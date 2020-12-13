@@ -1,2 +1,1 @@
-# DDINGG TIL
-
+# TIL DDINGG
