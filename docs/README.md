@@ -1,9 +1,9 @@
 # 📒 DDINGG TIL
 
 오늘 배우기 위해 최선을 다했을까?
-- Excellent : 🟢
-- Good : 🟡
-- Better : 🟤
+- Excellent : 🟢 Good : 🟡 Better : 🟤
+
+---
 
 - [12.10] : 🟡 [React TDD 공부](https://github.com/dding-g/react-study)
 - [12.11] : 🟤 [React TDD 공부](https://github.com/dding-g/react-study)
