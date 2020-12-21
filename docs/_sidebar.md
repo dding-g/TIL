@@ -7,3 +7,7 @@
     
 - 독서
     - [인사이드 자바스크립트](book/inside_javascript.md)
+    
+- 시행착오
+    - [Javascript](trial_and_error/javascript.md)
+    - [React](trial_and_error/react.md)
