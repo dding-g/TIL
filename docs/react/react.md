@@ -54,4 +54,4 @@ this.setState({order: 3,}, () => {
 > 
 정답은 `3` 이다. 아니 아까랑 똑같이 setState를 사용해서 바꾸었는데 왜 아까는 바뀐값으로 console이 찍히지 않았을까? 
 > 
-** `immer.js` 는 이전 `state` 값과 바뀐 `state` 값을 비교해서 바뀐 값 만 수정한 후, 새로운 `state` 객체로 바꿔치기한다. **
+**`immer.js` 는 이전 `state` 값과 바뀐 `state` 값을 비교해서 바뀐 값 만 수정한 후, 새로운 `state` 객체로 바꿔치기한다.**
