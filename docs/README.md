@@ -13,3 +13,4 @@
 - [12.15] : 🟡 [인사이드 자바스크립트 독서 (프로토타입 부분)](book/inside_javascript.md)
 - [12.21] : 🟡 [javascript 시행착오](trial_and_error/javascript.md), [react 시행착오](trial_and_error/react.md)
 - [12.28] : 🟢 [setState와 immer.js](react/react.md)
+- [12.30] : 🟡 [코테 풀이](algorithm/stack/etc.md)
