@@ -13,4 +13,4 @@
     
 - 시행착오
     - [Javascript](trial_and_error/javascript.md)
-    - [React](trial_and_error/react.md)
+    - [React](trial_and_error/react.md)  
