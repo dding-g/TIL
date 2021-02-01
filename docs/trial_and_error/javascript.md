@@ -33,3 +33,15 @@ function onClick(event) {
 ```
 
 ---
+
+## Polyfill(폴리필) 이란?
+
+- polyfill : 충전솜이라는 의미를 가지고 있다.솜이 꺼졌을때 충전솜을 채워 메꾸는 역할을 한다. -> 무엇을 메꾸는가?
+- 브라우저에서 지원하지 않는 코드를 사용가능한 코드 조각이나 플러그인(추가기능)을 의미한다.
+- `core-js`, `regenerator-runtime` 도 polyfil의 일종이다.
+
+### babel 만 있으면 장땡 아닙니까?
+- 바벨은 ESNext 에서 지원하는 문법을 ES5 문법으로 번역해주지만, ES5에 존재하지 않는 ES6의 Map, Promise, Set, Object.assigin() 이런애들은 존재하지 않으니 번역을 해줄수가 없다.
+- 그래서 저걸 매꾸기 위해 polyfill 을 사용한다. (Map, Promise, Set 등을 사용가능한 객체로 만들어준다)
+- babel 은 babel-polyfill 모듈을 사용하면 되지만, 현재 deprecated 되었기 때문에 core-js와 regenerator-runtime을 직접 사용하는 방식을 제안하고 있다.
+> [출처 velog](https://velog.io/@katanazero86/polyfill%ED%8F%B4%EB%A6%AC%ED%95%84-%EC%9D%B4%EB%9E%80)
