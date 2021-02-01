@@ -14,3 +14,4 @@
 - 시행착오
     - [Javascript](trial_and_error/javascript.md)
     - [React](trial_and_error/react.md)  
+    - [Next.js](trial_and_error/nextjs.md)
