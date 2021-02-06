@@ -1,6 +1,7 @@
 # 📒 DDINGG TIL
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding-g%2FTIL&count_bg=%234A02A6&title_bg=%230B0B0B&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-오늘 배우기 위해 최선을 다했을까?
+   오늘 배우기 위해 최선을 다했을까?
 > 🟢 Excellent 🟡 : Good 🟤 : Better
 
 ---
