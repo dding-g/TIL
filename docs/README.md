@@ -14,3 +14,5 @@
 - [12.21] : 🟡 [javascript 시행착오](trial_and_error/javascript.md), [react 시행착오](trial_and_error/react.md)
 - [12.28] : 🟢 [setState와 immer.js](react/react.md)
 - [12.30] : 🟡 [코테 풀이](algorithm/stack/etc.md)
+- [02.02] : 🟢 [polyfill 이란(next.js 구조 설계중 나옴)](trial_and_error/javascript.md?id=polyfill폴리필-이란)
+- [02.07] : 🟢 [Heroku 배포 중 에러](trial_and_error/heroku.md)
