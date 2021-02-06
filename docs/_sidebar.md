@@ -15,3 +15,4 @@
     - [Javascript](trial_and_error/javascript.md)
     - [React](trial_and_error/react.md)  
     - [Next.js](trial_and_error/nextjs.md)
+    - [Heroku]((trial_and_error/heroku.md))
