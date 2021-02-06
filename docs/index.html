@@ -18,9 +18,23 @@
                 // coverpage: true,
                 auto2top: true,
                 themeColor: '#023459',
+                search: 'auto', // default
+
+                // complete configuration parameters
+                search: {
+                    maxAge: 86400000, // Expiration time, the default one day
+                    paths: 'auto',
+                    placeholder: '찾을 내용',
+                    noData: '결과가 없습니다',
+                    // Headline depth, 1 - 6
+                    depth: 6,
+                    hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+                },
             };
         </script>
         <!-- Docsify v4 -->
         <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+        <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+        <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
     </body>
 </html>
